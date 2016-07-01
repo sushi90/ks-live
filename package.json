@@ -1,0 +1,19 @@
+{
+  "name": "ks-live",
+  "version": "1.0.0",
+  "description": "金山直播SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricPoker/ks-live.git"
+  },
+  "author": "Poker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricPoker/ks-live/issues"
+  },
+  "homepage": "https://github.com/EricPoker/ks-live#readme"
+}
